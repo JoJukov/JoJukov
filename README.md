@@ -1,6 +1,7 @@
 <div align="center">
-	<img src="https://user-images.githubusercontent.com/38620771/118567617-c7284700-b77e-11eb-962f-8f151d6f1d62.gif" width="410" height="308">
+	<img src="https://user-images.githubusercontent.com/38620771/118568946-8d0c7480-b781-11eb-937a-d1294b92c6f9.gif">
 </div>
+
 <!--
 **JoJukov/JoJukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
