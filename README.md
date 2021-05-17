@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![99px_ru_animacii_26031_manuli_vihodjat_iz_nori_drug_za_drugom](https://user-images.githubusercontent.com/38620771/118567617-c7284700-b77e-11eb-962f-8f151d6f1d62.gif)
+
+
 <!--
 **JoJukov/JoJukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
