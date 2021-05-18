@@ -1,18 +1,21 @@
-<div align="center">
-	<img src="https://user-images.githubusercontent.com/38620771/118568946-8d0c7480-b781-11eb-937a-d1294b92c6f9.gif">
+<!-- le manul -->
+<!-- <div align="center">
+	<img src="https://user-images.githubusercontent.com/38620771/118567617-c7284700-b77e-11eb-962f-8f151d6f1d62.gif">
+</div> -->
+
+<div align="center" style="width: 100%;">
+<img src="https://user-images.githubusercontent.com/38620771/118568946-8d0c7480-b781-11eb-937a-d1294b92c6f9.gif" />
+</div>
+<div align="center" style="display: flex;;">
+<img src="https://user-images.githubusercontent.com/38620771/118568946-8d0c7480-b781-11eb-937a-d1294b92c6f9.gif" />
+<img src="https://user-images.githubusercontent.com/38620771/118568946-8d0c7480-b781-11eb-937a-d1294b92c6f9.gif" />
 </div>
 
-<!--
-**JoJukov/JoJukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- edved triforce -->
+<!-- <div align="center">
+<img src="https://iliayar.ru/favicon.ico" />
+</div>
+<div align="center">
+<img src="https://iliayar.ru/favicon.ico" />
+<img src="https://iliayar.ru/favicon.ico" />
+</div> -->
